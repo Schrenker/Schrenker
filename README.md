@@ -1,8 +1,4 @@
 ### Hi there, I'm Sebastian 👋
----
-
-#### Current interests
-![alt text](https://icon-icons.com/icons2/2389/PNG/64/ansible_logo_icon_145495.png) ![alt text](https://icon-icons.com/icons2/2407/PNG/64/docker_icon_146192.png) ![alt text](https://icon-icons.com/icons2/2699/PNG/64/golang_gopher_src_logo_icon_168155.png) ![alt text](https://icon-icons.com/icons2/2107/PNG/64/file_type_git_icon_130581.png) ![alt text](https://icon-icons.com/icons2/2699/PNG/64/kubernetes_logo_icon_168359.png)
 
 <!--
 **Schrenker/Schrenker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
